@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working at **Epitech**
 
-- 👑 I'm the co-founder of **WizzarHeberg (Close)**
+- 👑 I'm the founder of **WizzarHeberg (Close)**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/loïc-stortz-214a47202/](https://www.linkedin.com/in/loïc-stortz-214a47202/)
 
