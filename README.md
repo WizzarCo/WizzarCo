@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/wizzarco" target="blank"><img src="https://img.shields.io/twitter/follow/wizzarco?logo=twitter&style=for-the-badge" alt="wizzarco" /></a> </p>
 
-- 🔭 I’m currently working at **Epitech**
+- 🔭 I’m currently learning at **Epitech**
 
 - 👑 I'm the founder of **WizzarHeberg (Close)**
 
