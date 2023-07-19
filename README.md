@@ -20,8 +20,6 @@
 
 - 🌐 All my projects of Graphic/Motion Design : **https://www.behance.net/wizzarco**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/lo%C3%AFc-stortz-214a47202/](https://www.linkedin.com/in/lo%C3%AFc-stortz-214a47202/)
-
 - ⚡ Fun fact **I think I am funny :)**
 
 <h3 align="left">Connect with me:</h3>
